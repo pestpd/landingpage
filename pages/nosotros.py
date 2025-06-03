@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.write("¿Quienes dirige este proyecto?")
+st.write("¿Quienes dirigen este proyecto?")
 
 st.image("ubu.png")
 
